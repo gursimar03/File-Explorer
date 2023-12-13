@@ -1,0 +1,722 @@
+<dir>
+	<name>ADS_Single_LinkedList_Exercises</name>
+	<dir>
+		<name>.git</name>
+		<file>
+			<name>config</name>
+			<length>353 b</length>
+			<type>config</type>
+		</file>
+		<file>
+			<name>description</name>
+			<length>73 b</length>
+			<type>description</type>
+		</file>
+		<file>
+			<name>HEAD</name>
+			<length>23 b</length>
+			<type>HEAD</type>
+		</file>
+		<dir>
+			<name>hooks</name>
+			<file>
+				<name>applypatch-msg.sample</name>
+				<length>478 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>commit-msg.sample</name>
+				<length>896 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>fsmonitor-watchman.sample</name>
+				<length>4726 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>post-update.sample</name>
+				<length>189 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>pre-applypatch.sample</name>
+				<length>424 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>pre-commit.sample</name>
+				<length>1643 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>pre-merge-commit.sample</name>
+				<length>416 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>pre-push.sample</name>
+				<length>1374 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>pre-rebase.sample</name>
+				<length>4898 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>pre-receive.sample</name>
+				<length>544 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>prepare-commit-msg.sample</name>
+				<length>1492 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>push-to-checkout.sample</name>
+				<length>2783 b</length>
+				<type>sample</type>
+			</file>
+			<file>
+				<name>update.sample</name>
+				<length>3650 b</length>
+				<type>sample</type>
+			</file>
+		</dir>
+		<file>
+			<name>index</name>
+			<length>6067 b</length>
+			<type>index</type>
+		</file>
+		<dir>
+			<name>info</name>
+			<file>
+				<name>exclude</name>
+				<length>240 b</length>
+				<type>exclude</type>
+			</file>
+		</dir>
+		<dir>
+			<name>logs</name>
+			<file>
+				<name>HEAD</name>
+				<length>207 b</length>
+				<type>HEAD</type>
+			</file>
+			<dir>
+				<name>refs</name>
+				<dir>
+					<name>heads</name>
+				</dir>
+				<dir>
+					<name>remotes</name>
+					<dir>
+						<name>origin</name>
+					</dir>
+				</dir>
+			</dir>
+		</dir>
+		<dir>
+			<name>objects</name>
+			<dir>
+				<name>info</name>
+			</dir>
+			<dir>
+				<name>pack</name>
+				<file>
+					<name>pack-dd10003f4df51da3151ea560db49e40595ba8f73.idx</name>
+					<length>6952 b</length>
+					<type>idx</type>
+				</file>
+				<file>
+					<name>pack-dd10003f4df51da3151ea560db49e40595ba8f73.pack</name>
+					<length>27397529 b</length>
+					<type>pack</type>
+				</file>
+			</dir>
+		</dir>
+		<file>
+			<name>packed-refs</name>
+			<length>114 b</length>
+			<type>packed-refs</type>
+		</file>
+		<dir>
+			<name>refs</name>
+			<dir>
+				<name>heads</name>
+				<file>
+					<name>master</name>
+					<length>41 b</length>
+					<type>master</type>
+				</file>
+			</dir>
+			<dir>
+				<name>remotes</name>
+				<dir>
+					<name>origin</name>
+					<file>
+						<name>HEAD</name>
+						<length>32 b</length>
+						<type>HEAD</type>
+					</file>
+				</dir>
+			</dir>
+			<dir>
+				<name>tags</name>
+			</dir>
+		</dir>
+	</dir>
+	<file>
+		<name>.gitattributes</name>
+		<length>2581 b</length>
+		<type>gitattributes</type>
+	</file>
+	<file>
+		<name>.gitignore</name>
+		<length>353 b</length>
+		<type>gitignore</type>
+	</file>
+	<dir>
+		<name>.vs</name>
+		<dir>
+			<name>ADS_Single_LinkedList_Exercises</name>
+			<dir>
+				<name>v17</name>
+				<file>
+					<name>.suo</name>
+					<length>14848 b</length>
+					<type>suo</type>
+				</file>
+			</dir>
+		</dir>
+		<dir>
+			<name>SinglyLinkedList</name>
+			<dir>
+				<name>FileContentIndex</name>
+				<file>
+					<name>541ec27e-6023-4ed4-bbc7-46cf8f6a2d4f.vsidx</name>
+					<length>27866 b</length>
+					<type>vsidx</type>
+				</file>
+				<dir>
+					<name>merges</name>
+				</dir>
+				<file>
+					<name>read.lock</name>
+					<length>0 b</length>
+					<type>lock</type>
+				</file>
+			</dir>
+			<dir>
+				<name>v17</name>
+				<file>
+					<name>.suo</name>
+					<length>43008 b</length>
+					<type>suo</type>
+				</file>
+				<file>
+					<name>Browse.VC.db</name>
+					<length>16654336 b</length>
+					<type>db</type>
+				</file>
+				<dir>
+					<name>ipch</name>
+					<dir>
+						<name>AutoPCH</name>
+						<dir>
+							<name>be7bd721b5de6425</name>
+							<file>
+								<name>SINGLYLINKEDLIST.ipch</name>
+								<length>917504 b</length>
+								<type>ipch</type>
+							</file>
+						</dir>
+					</dir>
+				</dir>
+				<file>
+					<name>Solution.VC.db</name>
+					<length>839680 b</length>
+					<type>db</type>
+				</file>
+				<dir>
+					<name>TestStore</name>
+					<dir>
+						<name>0</name>
+						<file>
+							<name>000.testlog</name>
+							<length>23806 b</length>
+							<type>testlog</type>
+						</file>
+						<file>
+							<name>testlog.manifest</name>
+							<length>24 b</length>
+							<type>manifest</type>
+						</file>
+					</dir>
+				</dir>
+			</dir>
+		</dir>
+		<file>
+			<name>VSWorkspaceState.json</name>
+			<length>78 b</length>
+			<type>json</type>
+		</file>
+	</dir>
+	<dir>
+		<name>Debug</name>
+		<file>
+			<name>SinglyLinkedList.pdb</name>
+			<length>978944 b</length>
+			<type>pdb</type>
+		</file>
+		<file>
+			<name>TestSinglyLinkedList.exp</name>
+			<length>41528 b</length>
+			<type>exp</type>
+		</file>
+		<file>
+			<name>TestSinglyLinkedList.pdb</name>
+			<length>1945600 b</length>
+			<type>pdb</type>
+		</file>
+	</dir>
+	<file>
+		<name>LICENSE.txt</name>
+		<length>1090 b</length>
+		<type>txt</type>
+	</file>
+	<file>
+		<name>README.md</name>
+		<length>33 b</length>
+		<type>md</type>
+	</file>
+	<dir>
+		<name>SinglyLinkedList</name>
+		<dir>
+			<name>Debug</name>
+			<file>
+				<name>SinglyLinkedList.Build.CppClean.log</name>
+				<length>4076 b</length>
+				<type>log</type>
+			</file>
+			<file>
+				<name>SinglyLinkedList.exe.recipe</name>
+				<length>343 b</length>
+				<type>recipe</type>
+			</file>
+			<file>
+				<name>SinglyLinkedList.ilk</name>
+				<length>386676 b</length>
+				<type>ilk</type>
+			</file>
+			<file>
+				<name>SinglyLinkedList.log</name>
+				<length>1071 b</length>
+				<type>log</type>
+			</file>
+			<dir>
+				<name>SinglyLinkedList.tlog</name>
+				<file>
+					<name>CL.command.1.tlog</name>
+					<length>2 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>link.command.1.tlog</name>
+					<length>1606 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>link.read.1.tlog</name>
+					<length>3442 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>link.write.1.tlog</name>
+					<length>856 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>SinglyLinkedList.lastbuildstate</name>
+					<length>201 b</length>
+					<type>lastbuildstate</type>
+				</file>
+				<file>
+					<name>unsuccessfulbuild</name>
+					<length>0 b</length>
+					<type>unsuccessfulbuild</type>
+				</file>
+			</dir>
+			<file>
+				<name>SinglyLinkedList.vcxproj.FileListAbsolute.txt</name>
+				<length>0 b</length>
+				<type>txt</type>
+			</file>
+			<file>
+				<name>vc143.idb</name>
+				<length>19456 b</length>
+				<type>idb</type>
+			</file>
+			<file>
+				<name>vc143.pdb</name>
+				<length>77824 b</length>
+				<type>pdb</type>
+			</file>
+		</dir>
+		<file>
+			<name>ReadMe.txt</name>
+			<length>1720 b</length>
+			<type>txt</type>
+		</file>
+		<file>
+			<name>SinglyLinkedList.cpp</name>
+			<length>1134 b</length>
+			<type>cpp</type>
+		</file>
+		<file>
+			<name>SinglyLinkedList.vcxproj</name>
+			<length>7653 b</length>
+			<type>vcxproj</type>
+		</file>
+		<file>
+			<name>SinglyLinkedList.vcxproj.filters</name>
+			<length>1347 b</length>
+			<type>filters</type>
+		</file>
+		<file>
+			<name>SinglyLinkedList.vcxproj.user</name>
+			<length>168 b</length>
+			<type>user</type>
+		</file>
+		<file>
+			<name>SList.h</name>
+			<length>2196 b</length>
+			<type>h</type>
+		</file>
+		<file>
+			<name>SListIterator.h</name>
+			<length>859 b</length>
+			<type>h</type>
+		</file>
+		<file>
+			<name>SListNode.h</name>
+			<length>729 b</length>
+			<type>h</type>
+		</file>
+		<dir>
+			<name>x64</name>
+			<dir>
+				<name>Debug</name>
+				<file>
+					<name>SinglyLinkedList.exe.recipe</name>
+					<length>334 b</length>
+					<type>recipe</type>
+				</file>
+				<file>
+					<name>SinglyLinkedList.ilk</name>
+					<length>685608 b</length>
+					<type>ilk</type>
+				</file>
+				<file>
+					<name>SinglyLinkedList.log</name>
+					<length>150 b</length>
+					<type>log</type>
+				</file>
+				<file>
+					<name>SinglyLinkedList.obj</name>
+					<length>34970 b</length>
+					<type>obj</type>
+				</file>
+				<dir>
+					<name>SinglyLinkedList.tlog</name>
+					<file>
+						<name>CL.command.1.tlog</name>
+						<length>892 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>CL.read.1.tlog</name>
+						<length>1138 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>CL.write.1.tlog</name>
+						<length>820 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>link.command.1.tlog</name>
+						<length>1582 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>link.read.1.tlog</name>
+						<length>3620 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>link.write.1.tlog</name>
+						<length>816 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>SinglyLinkedList.lastbuildstate</name>
+						<length>190 b</length>
+						<type>lastbuildstate</type>
+					</file>
+				</dir>
+				<file>
+					<name>vc143.idb</name>
+					<length>19456 b</length>
+					<type>idb</type>
+				</file>
+				<file>
+					<name>vc143.pdb</name>
+					<length>77824 b</length>
+					<type>pdb</type>
+				</file>
+			</dir>
+		</dir>
+		<file>
+			<name>~AutoRecover.SinglyLinkedList.vcxproj</name>
+			<length>7659 b</length>
+			<type>vcxproj</type>
+		</file>
+	</dir>
+	<file>
+		<name>SinglyLinkedList.sln</name>
+		<length>2251 b</length>
+		<type>sln</type>
+	</file>
+	<dir>
+		<name>TestSinglyLinkedList</name>
+		<dir>
+			<name>Debug</name>
+			<dir>
+				<name>TestSing.847AC544.tlog</name>
+				<file>
+					<name>CL.command.1.tlog</name>
+					<length>3300 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>CL.read.1.tlog</name>
+					<length>42030 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>CL.write.1.tlog</name>
+					<length>2190 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>link.command.1.tlog</name>
+					<length>2084 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>link.read.1.tlog</name>
+					<length>4422 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>link.write.1.tlog</name>
+					<length>1112 b</length>
+					<type>tlog</type>
+				</file>
+				<file>
+					<name>TestSinglyLinkedList.lastbuildstate</name>
+					<length>201 b</length>
+					<type>lastbuildstate</type>
+				</file>
+				<file>
+					<name>TestSinglyLinkedList.write.1u.tlog</name>
+					<length>1958 b</length>
+					<type>tlog</type>
+				</file>
+			</dir>
+			<file>
+				<name>TestSinglyLinkedList.Build.CppClean.log</name>
+				<length>6166 b</length>
+				<type>log</type>
+			</file>
+			<file>
+				<name>TestSinglyLinkedList.dll.recipe</name>
+				<length>347 b</length>
+				<type>recipe</type>
+			</file>
+			<file>
+				<name>TestSinglyLinkedList.ilk</name>
+				<length>918844 b</length>
+				<type>ilk</type>
+			</file>
+			<file>
+				<name>TestSinglyLinkedList.log</name>
+				<length>199 b</length>
+				<type>log</type>
+			</file>
+			<file>
+				<name>TestSinglyLinkedList.vcxproj.FileListAbsolute.txt</name>
+				<length>0 b</length>
+				<type>txt</type>
+			</file>
+			<file>
+				<name>vc143.idb</name>
+				<length>297984 b</length>
+				<type>idb</type>
+			</file>
+			<file>
+				<name>vc143.pdb</name>
+				<length>495616 b</length>
+				<type>pdb</type>
+			</file>
+		</dir>
+		<file>
+			<name>TestSinglyLinkedList.vcxproj</name>
+			<length>8451 b</length>
+			<type>vcxproj</type>
+		</file>
+		<file>
+			<name>TestSinglyLinkedList.vcxproj.filters</name>
+			<length>1061 b</length>
+			<type>filters</type>
+		</file>
+		<file>
+			<name>TestSList.cpp</name>
+			<length>6581 b</length>
+			<type>cpp</type>
+		</file>
+		<file>
+			<name>TestSListNode.cpp</name>
+			<length>1086 b</length>
+			<type>cpp</type>
+		</file>
+		<dir>
+			<name>x64</name>
+			<dir>
+				<name>Debug</name>
+				<dir>
+					<name>TestSing.847AC544.tlog</name>
+					<file>
+						<name>CL.command.1.tlog</name>
+						<length>2070 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>CL.read.1.tlog</name>
+						<length>42310 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>CL.write.1.tlog</name>
+						<length>2478 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>link.command.1.tlog</name>
+						<length>2058 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>link.read.1.tlog</name>
+						<length>4578 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>link.write.1.tlog</name>
+						<length>1062 b</length>
+						<type>tlog</type>
+					</file>
+					<file>
+						<name>TestSinglyLinkedList.lastbuildstate</name>
+						<length>190 b</length>
+						<type>lastbuildstate</type>
+					</file>
+					<file>
+						<name>TestSinglyLinkedList.write.1u.tlog</name>
+						<length>1230 b</length>
+						<type>tlog</type>
+					</file>
+				</dir>
+				<file>
+					<name>TestSinglyLinkedList.dll.recipe</name>
+					<length>338 b</length>
+					<type>recipe</type>
+				</file>
+				<file>
+					<name>TestSinglyLinkedList.ilk</name>
+					<length>1427456 b</length>
+					<type>ilk</type>
+				</file>
+				<file>
+					<name>TestSinglyLinkedList.log</name>
+					<length>151 b</length>
+					<type>log</type>
+				</file>
+				<file>
+					<name>TestSList.obj</name>
+					<length>497948 b</length>
+					<type>obj</type>
+				</file>
+				<file>
+					<name>TestSListNode.obj</name>
+					<length>348206 b</length>
+					<type>obj</type>
+				</file>
+				<file>
+					<name>vc143.idb</name>
+					<length>297984 b</length>
+					<type>idb</type>
+				</file>
+				<file>
+					<name>vc143.pdb</name>
+					<length>462848 b</length>
+					<type>pdb</type>
+				</file>
+			</dir>
+		</dir>
+		<file>
+			<name>~AutoRecover.TestSinglyLinkedList.vcxproj</name>
+			<length>9020 b</length>
+			<type>vcxproj</type>
+		</file>
+	</dir>
+	<dir>
+		<name>x64</name>
+		<dir>
+			<name>Debug</name>
+			<file>
+				<name>SinglyLinkedList.exe</name>
+				<length>72192 b</length>
+				<type>exe</type>
+			</file>
+			<file>
+				<name>SinglyLinkedList.pdb</name>
+				<length>1093632 b</length>
+				<type>pdb</type>
+			</file>
+			<file>
+				<name>TestSinglyLinkedList.dll</name>
+				<length>164352 b</length>
+				<type>dll</type>
+			</file>
+			<file>
+				<name>TestSinglyLinkedList.exp</name>
+				<length>41732 b</length>
+				<type>exp</type>
+			</file>
+			<file>
+				<name>TestSinglyLinkedList.lib</name>
+				<length>54024 b</length>
+				<type>lib</type>
+			</file>
+			<file>
+				<name>TestSinglyLinkedList.pdb</name>
+				<length>1888256 b</length>
+				<type>pdb</type>
+			</file>
+		</dir>
+	</dir>
+</dir>
